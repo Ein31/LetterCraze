@@ -1,11 +1,6 @@
 # README
 
-This is LetterCraze. LetterCraze is the final group project for CS3733. The team name is Ruthenium. Team Members are:
-Matthew Lamare
-Jacob Fakault
-Jack Pugmire
-Cameron Maitland
-Andrew Lewis
+This is LetterCraze. LetterCraze is the final group project for CS3733. The team name is Ruthenium.
 
 
 ### How do I get set up?
